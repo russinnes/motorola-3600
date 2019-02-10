@@ -1,2 +1,2 @@
 # motorola-3600
-Motorola 3600 decoder stuff
+Motorola 3600 trunking decoder stuff
